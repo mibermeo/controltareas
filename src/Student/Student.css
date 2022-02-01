@@ -1,0 +1,99 @@
+.cajaColor{
+    color: red;
+    text-align: center;
+    border-style: double;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 50px;
+  }
+.cajaColor1{
+    color: blueviolet;
+  }
+  .cajaColor2{
+    color: orange;
+  }
+  
+  .caja{
+   text-align: left;
+    border-style: groove;
+    margin-top: 80px;
+    width: 700px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .color{
+    color: aqua;
+    text-align: center;
+   border-style: dotted;
+   margin: 80px;
+  }
+
+  .boxUpdate{
+
+
+    width: 600px;
+    height: 400px;
+}
+
+.boxFormUpdate{
+    background: white;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0 10%;
+    
+    
+    position: relative;
+}
+
+.boxFormUpdate h2{
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #2C3E50;
+    margin-bottom: 10px;
+}
+
+.boxFormUpdate label{
+    background: white;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0 10%;
+    
+    
+    position: relative;
+}
+
+.formUpdateInput {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+}
+
+.formUpdateBtn {
+    width: 100px;
+    background: #27AE60;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    border-radius: 1px;
+    cursor: pointer;
+    padding: 10px 5px;
+    margin: 10px 5px;
+}

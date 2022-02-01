@@ -1,0 +1,40 @@
+.cajaColor{
+    color: red;
+    text-align: center;
+    border-style: double;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 50px;
+  }
+.cajaColor1{
+    color: blueviolet;
+  }
+  .cajaColor2{
+    color: orange;
+  }
+  
+  .caja{
+   text-align: left;
+    border-style: groove;
+    margin-top: 80px;
+    width: 700px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .color{
+    color: aqua;
+    text-align: center;
+   border-style: dotted;
+   margin: 80px;
+  }
+
+  .boxUpdate{
+
+
+    width: 600px;
+    height: 400px;
+}
